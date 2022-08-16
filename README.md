@@ -4,7 +4,7 @@ Webspace is a social media of websites where users can post about different webs
 
 
 ## Website Link  
-[web space](https://webspace.herokuapp.com/posts)
+[web space](https://webspace.herokuapp.com)
 
 ## Features
 
